@@ -1,0 +1,26 @@
+.Details-Banner {
+  width: 750px;
+}
+.GamePoster {
+  display: block;
+}
+body {
+  overflow-x: hidden;
+}
+.bg-transparent {
+  background-color: transparent !important;
+}
+table tr td,
+table tr th {
+  background-color: rgba(255, 254, 254, 0) !important;
+}
+td,
+th {
+  color: white !important;
+}
+.search-bar {
+  width: 250px;
+}
+.btn-search {
+  border-radius: 8px;
+}
